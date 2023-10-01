@@ -1,0 +1,21 @@
+
+
+.num-impar {
+    background-color: #f00;
+    font-family: Verdana, "DejaVu" sans-serif;
+}
+
+#numero2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.tres {
+    font-size: 24px;
+}
+
+#numero4 {
+    background-color: #0f0;
+    font-size: 24px;
+    font-weight: bold;
+}
